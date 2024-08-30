@@ -1,2 +1,1 @@
-# nuxt-vuetify-idx-template
-IDX templet for Nuxt and Vuetify
+# Nuxt 3 + Vuetify template
